@@ -112,9 +112,18 @@ html {
   margin: 0;
 }
 
+.intro {
+  background-color: lightgrey;
+}
+
 @media only screen and (min-width: 35em) {
   .button {
     width: 260px;
+  }
+
+  .intro {
+    padding-left: 3em;
+    padding-right: 3em;
   }
 }
 
@@ -122,4 +131,10 @@ html {
   .button {
     width: 260px;
   }
+
+  .intro {
+    padding-left: 8em;
+    padding-right: 8em;
+  }
+
 }
