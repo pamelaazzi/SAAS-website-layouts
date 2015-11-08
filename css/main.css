@@ -131,7 +131,17 @@ html {
 }
 
 .img1 {
-  width: 50%;
+  width: 100%;
+}
+
+.box {
+  background-color:#F0F0F0;
+}
+
+.box2 {
+  background-color: lightgrey;
+  border-radius: 25px;
+  margin-bottom:1rem;
 }
 
 @media only screen and (min-width: 35em) {
@@ -142,6 +152,10 @@ html {
   .intro {
     padding-left: 3em;
     padding-right: 3em;
+  }
+
+  .img1 {
+    width: 80%;
   }
 }
 
@@ -154,5 +168,7 @@ html {
     padding-left: 8em;
     padding-right: 8em;
   }
-
+  .img1 {
+    width: 50%;
+  }
 }
