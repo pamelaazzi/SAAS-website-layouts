@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="164.8px" height="101.1px" viewBox="0 0 164.8 101.1" style="enable-background:new 0 0 164.8 101.1;"
+	 xml:space="preserve">
+<metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c011 79.156289, 2014/03/31-23:39:12        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:illustrator="http://ns.adobe.com/illustrator/1.0/"
+            xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"
+            xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
+            xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <dc:format>image/svg+xml</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Print</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <xmp:MetadataDate>2015-11-10T19:08:40-05:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2015-11-10T19:08:40-05:00</xmp:ModifyDate>
+         <xmp:CreateDate>2015-11-10T19:08:40-05:00</xmp:CreateDate>
+         <xmp:CreatorTool>Adobe Illustrator CC 2014 (Macintosh)</xmp:CreatorTool>
+         <xmp:Thumbnails>
+            <rdf:Alt>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpGImg:width>256</xmpGImg:width>
+                  <xmpGImg:height>160</xmpGImg:height>
+                  <xmpGImg:format>JPEG</xmpGImg:format>
+                  <xmpGImg:image>/9j/4AAQSkZJRgABAgEASABIAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAASAAAAAEA&#xA;AQBIAAAAAQAB/+4ADkFkb2JlAGTAAAAAAf/bAIQABgQEBAUEBgUFBgkGBQYJCwgGBggLDAoKCwoK&#xA;DBAMDAwMDAwQDA4PEA8ODBMTFBQTExwbGxscHx8fHx8fHx8fHwEHBwcNDA0YEBAYGhURFRofHx8f&#xA;Hx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8f/8AAEQgAoAEAAwER&#xA;AAIRAQMRAf/EAaIAAAAHAQEBAQEAAAAAAAAAAAQFAwIGAQAHCAkKCwEAAgIDAQEBAQEAAAAAAAAA&#xA;AQACAwQFBgcICQoLEAACAQMDAgQCBgcDBAIGAnMBAgMRBAAFIRIxQVEGE2EicYEUMpGhBxWxQiPB&#xA;UtHhMxZi8CRygvElQzRTkqKyY3PCNUQnk6OzNhdUZHTD0uIIJoMJChgZhJRFRqS0VtNVKBry4/PE&#xA;1OT0ZXWFlaW1xdXl9WZ2hpamtsbW5vY3R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo+Ck5SVlpeYmZ&#xA;qbnJ2en5KjpKWmp6ipqqusra6voRAAICAQIDBQUEBQYECAMDbQEAAhEDBCESMUEFURNhIgZxgZEy&#xA;obHwFMHR4SNCFVJicvEzJDRDghaSUyWiY7LCB3PSNeJEgxdUkwgJChgZJjZFGidkdFU38qOzwygp&#xA;0+PzhJSktMTU5PRldYWVpbXF1eX1RlZmdoaWprbG1ub2R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo&#xA;+DlJWWl5iZmpucnZ6fkqOkpaanqKmqq6ytrq+v/aAAwDAQACEQMRAD8A41lSuxV2KuxV2KuxV2Ku&#xA;xV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KvcfyW/Jbyj51&#xA;8ozavq815HdR3klsBbSRonBI42GzRua1c98kBas+/wChXPy4/wCWnU/+R8P/AFRw8Ku/6Fc/Lj/l&#xA;p1P/AJHw/wDVHHhV3/Qrn5cf8tOp/wDI+H/qjjwq7/oVz8uP+WnU/wDkfD/1Rx4Vd/0K5+XH/LTq&#xA;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&#xA;eFX/2Q==</xmpGImg:image>
+               </rdf:li>
+            </rdf:Alt>
+         </xmp:Thumbnails>
+         <xmpMM:InstanceID>xmp.iid:584846be-4e00-422d-a4d0-979be2bc27dd</xmpMM:InstanceID>
+         <xmpMM:DocumentID>xmp.did:584846be-4e00-422d-a4d0-979be2bc27dd</xmpMM:DocumentID>
+         <xmpMM:OriginalDocumentID>uuid:5D20892493BFDB11914A8590D31508C8</xmpMM:OriginalDocumentID>
+         <xmpMM:RenditionClass>proof:pdf</xmpMM:RenditionClass>
+         <xmpMM:DerivedFrom rdf:parseType="Resource">
+            <stRef:instanceID>xmp.iid:605d5c4c-d6fe-4f0d-a2e4-4e700355617f</stRef:instanceID>
+            <stRef:documentID>xmp.did:605d5c4c-d6fe-4f0d-a2e4-4e700355617f</stRef:documentID>
+            <stRef:originalDocumentID>uuid:5D20892493BFDB11914A8590D31508C8</stRef:originalDocumentID>
+            <stRef:renditionClass>proof:pdf</stRef:renditionClass>
+         </xmpMM:DerivedFrom>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:605d5c4c-d6fe-4f0d-a2e4-4e700355617f</stEvt:instanceID>
+                  <stEvt:when>2015-11-10T19:07:43-05:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CC 2014 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:584846be-4e00-422d-a4d0-979be2bc27dd</stEvt:instanceID>
+                  <stEvt:when>2015-11-10T19:08:40-05:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CC 2014 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <illustrator:StartupProfile>Print</illustrator:StartupProfile>
+         <xmpTPg:HasVisibleOverprint>False</xmpTPg:HasVisibleOverprint>
+         <xmpTPg:HasVisibleTransparency>False</xmpTPg:HasVisibleTransparency>
+         <xmpTPg:NPages>1</xmpTPg:NPages>
+         <xmpTPg:MaxPageSize rdf:parseType="Resource">
+            <stDim:w>2.288797</stDim:w>
+            <stDim:h>1.404004</stDim:h>
+            <stDim:unit>Inches</stDim:unit>
+         </xmpTPg:MaxPageSize>
+         <xmpTPg:PlateNames>
+            <rdf:Seq>
+               <rdf:li>Cyan</rdf:li>
+               <rdf:li>Magenta</rdf:li>
+               <rdf:li>Yellow</rdf:li>
+               <rdf:li>Black</rdf:li>
+            </rdf:Seq>
+         </xmpTPg:PlateNames>
+         <xmpTPg:SwatchGroups>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>Default Swatch Group</xmpG:groupName>
+                  <xmpG:groupType>0</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>White</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>Black</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>100.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>CMYK Red</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>CMYK Yellow</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>CMYK Green</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>100.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>CMYK Cyan</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>100.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>CMYK Blue</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>100.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>CMYK Magenta</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=15 M=100 Y=90 K=10</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>15.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>90.000000</xmpG:yellow>
+                           <xmpG:black>10.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=90 Y=85 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>90.000000</xmpG:magenta>
+                           <xmpG:yellow>85.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=80 Y=95 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>80.000000</xmpG:magenta>
+                           <xmpG:yellow>95.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=50 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>50.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=35 Y=85 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>35.000000</xmpG:magenta>
+                           <xmpG:yellow>85.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=5 M=0 Y=90 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>5.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>90.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=20 M=0 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>20.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=50 M=0 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>50.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=75 M=0 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>75.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=85 M=10 Y=100 K=10</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>85.000000</xmpG:cyan>
+                           <xmpG:magenta>10.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>10.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=90 M=30 Y=95 K=30</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>90.000000</xmpG:cyan>
+                           <xmpG:magenta>30.000000</xmpG:magenta>
+                           <xmpG:yellow>95.000000</xmpG:yellow>
+                           <xmpG:black>30.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=75 M=0 Y=75 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>75.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>75.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=80 M=10 Y=45 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>80.000000</xmpG:cyan>
+                           <xmpG:magenta>10.000000</xmpG:magenta>
+                           <xmpG:yellow>45.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=70 M=15 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>70.000000</xmpG:cyan>
+                           <xmpG:magenta>15.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=85 M=50 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>85.000000</xmpG:cyan>
+                           <xmpG:magenta>50.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=100 M=95 Y=5 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>100.000000</xmpG:cyan>
+                           <xmpG:magenta>95.000000</xmpG:magenta>
+                           <xmpG:yellow>5.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=100 M=100 Y=25 K=25</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>100.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>25.000000</xmpG:yellow>
+                           <xmpG:black>25.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=75 M=100 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>75.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=50 M=100 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>50.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=35 M=100 Y=35 K=10</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>35.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>35.000000</xmpG:yellow>
+                           <xmpG:black>10.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=10 M=100 Y=50 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>10.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>50.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=95 Y=20 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>95.000000</xmpG:magenta>
+                           <xmpG:yellow>20.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=25 M=25 Y=40 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>25.000000</xmpG:cyan>
+                           <xmpG:magenta>25.000000</xmpG:magenta>
+                           <xmpG:yellow>40.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=40 M=45 Y=50 K=5</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>40.000000</xmpG:cyan>
+                           <xmpG:magenta>45.000000</xmpG:magenta>
+                           <xmpG:yellow>50.000000</xmpG:yellow>
+                           <xmpG:black>5.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=50 M=50 Y=60 K=25</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>50.000000</xmpG:cyan>
+                           <xmpG:magenta>50.000000</xmpG:magenta>
+                           <xmpG:yellow>60.000000</xmpG:yellow>
+                           <xmpG:black>25.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=55 M=60 Y=65 K=40</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>55.000000</xmpG:cyan>
+                           <xmpG:magenta>60.000000</xmpG:magenta>
+                           <xmpG:yellow>65.000000</xmpG:yellow>
+                           <xmpG:black>40.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=25 M=40 Y=65 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>25.000000</xmpG:cyan>
+                           <xmpG:magenta>40.000000</xmpG:magenta>
+                           <xmpG:yellow>65.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=30 M=50 Y=75 K=10</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>30.000000</xmpG:cyan>
+                           <xmpG:magenta>50.000000</xmpG:magenta>
+                           <xmpG:yellow>75.000000</xmpG:yellow>
+                           <xmpG:black>10.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=35 M=60 Y=80 K=25</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>35.000000</xmpG:cyan>
+                           <xmpG:magenta>60.000000</xmpG:magenta>
+                           <xmpG:yellow>80.000000</xmpG:yellow>
+                           <xmpG:black>25.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=40 M=65 Y=90 K=35</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>40.000000</xmpG:cyan>
+                           <xmpG:magenta>65.000000</xmpG:magenta>
+                           <xmpG:yellow>90.000000</xmpG:yellow>
+                           <xmpG:black>35.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=40 M=70 Y=100 K=50</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>40.000000</xmpG:cyan>
+                           <xmpG:magenta>70.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>50.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=50 M=70 Y=80 K=70</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>50.000000</xmpG:cyan>
+                           <xmpG:magenta>70.000000</xmpG:magenta>
+                           <xmpG:yellow>80.000000</xmpG:yellow>
+                           <xmpG:black>70.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=69 M=63 Y=62 K=58</xmpG:swatchName>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:tint>100.000000</xmpG:tint>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:cyan>69.140625</xmpG:cyan>
+                           <xmpG:magenta>62.890625</xmpG:magenta>
+                           <xmpG:yellow>61.718750</xmpG:yellow>
+                           <xmpG:black>58.203125</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=34 M=21 Y=48 K=0</xmpG:swatchName>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:tint>100.000000</xmpG:tint>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:cyan>33.536276</xmpG:cyan>
+                           <xmpG:magenta>20.630197</xmpG:magenta>
+                           <xmpG:yellow>48.004881</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=66 M=58 Y=72 K=60</xmpG:swatchName>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:tint>100.000000</xmpG:tint>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:cyan>66.427100</xmpG:cyan>
+                           <xmpG:magenta>58.052945</xmpG:magenta>
+                           <xmpG:yellow>71.593803</xmpG:yellow>
+                           <xmpG:black>60.134274</xmpG:black>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>Grays</xmpG:groupName>
+                  <xmpG:groupType>1</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=100</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>100.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=90</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>89.999400</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=80</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>79.998800</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=70</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>69.999700</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=60</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>59.999100</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=50</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>50.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=40</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>39.999400</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=30</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>29.998800</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=20</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>19.999700</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=10</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>9.999100</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=5</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>4.998800</xmpG:black>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>Brights</xmpG:groupName>
+                  <xmpG:groupType>1</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=100 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=75 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>75.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=10 Y=95 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>10.000000</xmpG:magenta>
+                           <xmpG:yellow>95.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=85 M=10 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>85.000000</xmpG:cyan>
+                           <xmpG:magenta>10.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=100 M=90 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>100.000000</xmpG:cyan>
+                           <xmpG:magenta>90.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=60 M=90 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>60.000000</xmpG:cyan>
+                           <xmpG:magenta>90.000000</xmpG:magenta>
+                           <xmpG:yellow>0.003100</xmpG:yellow>
+                           <xmpG:black>0.003100</xmpG:black>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpTPg:SwatchGroups>
+         <pdf:Producer>Adobe PDF library 10.01</pdf:Producer>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+	</metadata>
+<g>
+	<rect x="3.5" y="3.5" style="fill:none;stroke:#34362B;stroke-width:6.9156;stroke-miterlimit:10;" width="157.9" height="94.2"/>
+	<line style="fill:none;stroke:#B0B591;stroke-width:6.9156;stroke-miterlimit:10;" x1="105" y1="43.9" x2="144.5" y2="80.4"/>
+	<line style="fill:none;stroke:#B0B591;stroke-width:6.9156;stroke-miterlimit:10;" x1="60.7" y1="43.9" x2="21.2" y2="80.4"/>
+	<polyline style="fill:none;stroke:#34362B;stroke-width:6.9156;stroke-miterlimit:10;" points="152.9,13.4 82.4,55.5 11.9,13.4 	
+		"/>
+</g>
+</svg>
