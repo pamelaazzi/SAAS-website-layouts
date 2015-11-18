@@ -105,8 +105,8 @@ html {
   .image {
   position: relative;
   width: 100%;
-  max-height: 283px;
-  overflow:hidden;
+  max-height: 285px;
+  overflow: hidden;
   }
 
   .text {
@@ -149,6 +149,7 @@ html {
   font-weight: 300;
   color: white;
 }
+
 
 .intro {
   background-color: #D7D8BF;

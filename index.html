@@ -16,12 +16,17 @@
   </head>
   <body>
 
-    <header class="gutter head">
+    <ul class="skip-links">
+      <li><a href="main">Jump to main content</a></li>
+      <li><a href="nav">Jump to main content</a></li>
+    </ul>
+
+    <header class="gutter head" role="banner">
     <div class="grid grid-middle masthead pad-bottom-half">
         <div class="unit unit-xs-1 unit-s-1 unit-m-1-2 unit-l-1-2 pad-t-1-2 pad-b-1-2 center logo-left">
-            <a href="index.html"><img src="images/logo.svg" class="logo push-0" alt="Logo"></a>
+            <a href="index.html"><img src="images/logo.svg" class="logo push-0" alt="One + One"></a>
         </div>
-        <nav id="navigation" class="unit unit-xs-1 unit-s-1 unit-m-1-2 unit-l-1-2 float-right center font">
+        <nav id="nav" role="navigation" class="unit unit-xs-1 unit-s-1 unit-m-1-2 unit-l-1-2 float-right center font">
             <ul class="nav push-0">
                 <li><a class="island-1-2" href="signup.html">Sign Up</a></li>
                 <li><a class="island-1-2" href="tour.html">Tour</a></li>
@@ -31,7 +36,7 @@
     </div>
 </header>
 
-<div class="image">
+<div class="image" role="main" id="main">
   <img class="billboard" src="images/wedding-billboard.jpg" alt="billboard">
        <div class="billboard-inside gutter pad-bottom pad-top-half">
            <h1 align="middle" class="text pad-t-2 gutter big font2 peta">WEDDING PLANNING MADE SIMPLE</h1>
@@ -40,7 +45,7 @@
        </div>
 </div>
 
-<div class="grid intro">
+<div class="grid intro" role="contentinfo">
   <div class="unit unit-xs-1 unit-s-1 unit-m-1">
     <p class="gutter pad-t font2 milli text-center push-0">Our website is a tool you use to design your wedding.</p>
     <p class="gutter font milli text-center pad-b push-0">Our website will help you locate and organize local vendors, dates, guests, music and more without having to leave your house.  It will also allow you to create moodboards, a wedding album, printables for wedding favors, a playlist, photbooks, photo products, and so much more!</p>
