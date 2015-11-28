@@ -198,6 +198,14 @@ small, .milli {
   padding-bottom: 0.3250rem;
 }
 
+.pad-left {
+  padding-left: 0.6500rem;
+}
+
+.pad-right {
+  padding-right: 0.6500rem;
+}
+
 .island {
   padding: 1.3rem;
 }
