@@ -139,6 +139,7 @@ html {
 }
 
 .text4 {
+  position: absolute;
   bottom: 0.7em;
   left: 0;
   width: 100%;
@@ -147,7 +148,6 @@ html {
   font-weight: 300;
   color: white;
 }
-
 
 .intro {
   background-color: #D7D8BF;
