@@ -73,7 +73,7 @@ html {
 	font-family: sans-serif;
 	color: black;
 	cursor: pointer;
-	width: 235px;
+	width: 243px;
 	height: 60px;
 	text-align:center;
 	border:white solid 2px;
@@ -190,8 +190,8 @@ html {
   }
 
   .button2 {
-    width: 295px;
-    height: 60px;
+    width: 320px;
+    height: 70px;
     font-size: 1.9em;
   }
 
@@ -218,8 +218,8 @@ html {
   }
 
   .button2 {
-    width: 340px;
-    height: 70px;
+    width: 350px;
+    height: 75px;
     font-size: 2em;
   }
 }
