@@ -82,7 +82,7 @@ html {
 	width: 170px;
 	height: 50px;
 	border:white solid 3px;
-	background: #D7D8BF;
+	background:  #B0B591;
   position: relative;
   bottom: 0.8em;
 }
@@ -127,15 +127,6 @@ html {
   left: 0;
   width: 100%;
   margin: 0;
-}
-
-.text4 {
-  position: absolute;
-  bottom: 0.7em;
-  left: 0;
-  width: 100%;
-  margin: 0;
-  color: white;
 }
 
 .intro {
