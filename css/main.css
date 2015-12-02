@@ -147,7 +147,6 @@ html {
   bottom: 0.7em;
   left: 0;
   width: 100%;
-  padding: 1em;
   margin: 0;
 }
 
@@ -158,7 +157,6 @@ html {
   width: 100%;
   padding: 2em;
   margin: 0;
-  font-weight: 300;
   color: white;
 }
 
@@ -182,10 +180,13 @@ html {
 
 .sign-up {
     max-width: 500px;
-    background: #E9E7D6;
+    background: none;
     border:1px solid #fff;
     margin-bottom: 1rem;
+    margin-left: auto;
+    margin-right: auto;
 }
+
 
 .sign-up input[type="text"], .sign-up input[type="password"], .sign-up input[type="email"],  .sign up select {
     border: 1px solid #DADADA;
@@ -198,6 +199,7 @@ html {
     -moz-box-shadow: inset 0px 1px 4px #ECECEC;
     -webkit-box-shadow: inset 0px 1px 4px #ECECEC;
 }
+
 
 @media only screen and (min-width: 35em) {
   .button {
