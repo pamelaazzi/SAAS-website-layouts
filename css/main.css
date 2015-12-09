@@ -1,5 +1,18 @@
 html {
   font-family: sans-serif;
+  position: relative;
+  }
+
+  body {
+    position: relative;
+    padding-bottom: 3em;
+    min-height: 100vh;
+  }
+
+  .foot {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
   }
 
   .head{
