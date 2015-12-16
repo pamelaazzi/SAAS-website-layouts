@@ -97,7 +97,7 @@ html {
 
   .text {
     position: absolute;
-    bottom: 7em;
+    bottom: 6.5em;
     left: 0;
     width: 100%;
     padding: 1em;
@@ -106,7 +106,7 @@ html {
 
   .text2 {
     position: absolute;
-    bottom: 4em;
+    bottom: 5em;
     left: 0;
     width: 100%;
     margin: 0;
@@ -185,6 +185,10 @@ html {
     height: 70px;
     font-size: 1.9em;
   }
+
+  .text {
+    bottom: 6.7em;
+  }
 }
 
 @media only screen and (min-width: 60em) {
@@ -212,6 +216,7 @@ html {
     height: 75px;
     font-size: 2em;
   }
+
 }
 
 @media print{
